@@ -1,0 +1,8 @@
+
+    @media screen and (max-width: 426px){
+        .Pages {
+        display:flex;
+        gap: 10px;
+        overflow-x: scroll;
+        }
+    }

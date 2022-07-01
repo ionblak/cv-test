@@ -1,0 +1,38 @@
+.box {
+    display: flex;
+    align-items: center;
+    gap:13px;
+}
+
+.page {
+    width: 21cm;
+    height: 29.7cm; 
+    padding: 38px;
+    background-color: #FFFFFF;
+    /* display: grid;
+    grid-template-columns: 0.25fr 1fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 31px;
+    grid-row-gap: 0px;
+    margin-bottom: 20px; */
+    display: flex;
+    gap:31px;
+    /* justify-content: space-around; */
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+.personal{
+    background-color: cadetblue;
+    margin-bottom: 10px;
+}
+
+.sidebar{
+    width: 25vw;
+    /* background-color: gray; */
+}
+.content{
+    width: 100vw;
+    display: block;
+    /* background-color: gray; */
+}

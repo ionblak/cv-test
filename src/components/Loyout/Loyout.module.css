@@ -1,0 +1,8 @@
+.Loyout {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    padding: 20px;
+    overflow:scroll;
+    background-color: #4F5D62;
+}

@@ -1,0 +1,10 @@
+.SkillsItem {
+    font: normal normal normal 9px/13px Poppins;
+    letter-spacing: 0px;
+    color: #2B2E35;
+    text-transform: capitalize;
+    background: #EBF9F5 0% 0% no-repeat ;
+    border-radius: 30px;
+    padding: 1px 10px 4px 6px;
+    text-align: center;
+}
